@@ -33,7 +33,7 @@ function Index() {
         <a
           href="https://github.com/vercel/vercel/blob/master/gatsby"
           target="_blank"
-          rel="noreferrer noopener"
+          rel="noreferrer noopasdasdener"
         >
           This project
         </a>{' '}
